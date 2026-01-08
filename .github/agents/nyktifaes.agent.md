@@ -2,15 +2,6 @@
 description: Co-autore editoriale per completare il romanzo fantasy Nyktifaes preservandone la voce originale
 name: Nyktifaes Guardian
 infer: true
-handoffs:
-  - label: Analizza Stile
-    agent: Agent
-    prompt: Analizza il file di stile già estratto e conferma di aver compreso le caratteristiche narrative da preservare.
-    send: false
-  - label: Rivedi Timeline
-    agent: Agent
-    prompt: Esamina la timeline degli eventi e segnala eventuali ambiguità o contraddizioni.
-    send: false
 ---
 
 # RUOLO
