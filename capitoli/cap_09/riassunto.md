@@ -1,0 +1,3 @@
+Durante il viaggio di ritorno, Zemy e Zerith vengono attaccati dagli Slyer, ma vengono salvati da una squadra di elfi chiamata Nyktifaes. Gli elfi spiegano la loro missione di protezione della natura e lasciano un'impressione profonda su Zemy, che decide di voler entrare a far parte del loro gruppo. Inizia così un salto temporale in cui Zemy si allena duramente con Zerkan per realizzare il suo sogno.
+
+Il capitolo segna una svolta nella crescita dei protagonisti, con l'introduzione di nuovi ideali e la determinazione di Zemy a seguire la via dei Nyktifaes, rafforzando il legame con la natura e con il proprio destino.

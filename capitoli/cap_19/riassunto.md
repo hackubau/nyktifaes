@@ -1,0 +1,3 @@
+Delor riceve da Karamir una mappa e informazioni su un simbolo misterioso collegato a Kendhor. Determinato a vendicare la famiglia, parte per la città. Zemy e Namar, dopo un incidente in locanda con Waky, vengono coinvolti in un affare losco e accettano di lavorare per ottenere informazioni. In parallelo, Aster vive un rito di rigenerazione sulla spiaggia e salva un elfo ferito con un potente incantesimo, sfinendosi.
+
+Zemy e Namar vengono condotti in un covo sotterraneo della malavita di Kendhor, dove si preparano ad affrontare nuove prove e pericoli, mentre le storie dei protagonisti si intrecciano tra mistero e crescita personale.

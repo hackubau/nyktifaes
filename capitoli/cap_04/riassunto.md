@@ -1,0 +1,3 @@
+Dopo la notte di caccia, Zemy e Zerith fanno ritorno al villaggio, ancora scossi dagli eventi e dalla perdita di Krevlar. Il viaggio di rientro è segnato da dubbi e paure, soprattutto quando emergono incertezze sulla natura della bestia affrontata. Durante il cammino, Zemy intravede una creatura misteriosa dagli occhi viola e ali nere, che lo riempie di terrore e presagio.
+
+Il ritorno al villaggio non porta sollievo: la presenza della creatura sconosciuta e il trauma vissuto lasciano i protagonisti inquieti, segnando un punto di svolta nella loro percezione del mondo e del pericolo che li circonda.

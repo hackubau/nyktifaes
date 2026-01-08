@@ -1,0 +1,3 @@
+Dopo la missione, Zemy e Namar ricevono una ricompensa, ma Waky viene trattenuto da Arlon per essere venduto a un potente signore. I due vengono imprigionati e tramortiti. Nel frattempo, Aster si risveglia tra i Telayges che la invitano a unirsi agli Ierax, segnando un momento di crescita e riconoscimento.
+
+Zemy e Namar si risvegliano in cella, tentano di organizzare la fuga e cercano informazioni sui Raizer, ma vengono aggrediti dai prigionieri. In Zemy inizia a manifestarsi una trasformazione legata ai suoi poteri latenti, portando la tensione a un nuovo livello e lasciando presagire sviluppi futuri carichi di mistero e pericolo.

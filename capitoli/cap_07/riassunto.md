@@ -1,0 +1,3 @@
+Zemy e Zerith attraversano una porta magica e giungono finalmente a Kedemon Fysis, la città elfica. Qui cercano la villa di Reben, un guaritore e vecchio amico di famiglia, e vengono accolti calorosamente da lui e da Sphira. I due ragazzi si sentono finalmente al sicuro e possono riposare dopo le fatiche del viaggio.
+
+Durante la permanenza, Reben e Sphira offrono loro ospitalità e raccontano storie delle vecchie avventure dei padri, rafforzando il senso di appartenenza e continuità tra le generazioni. L'incontro con la cultura elfica e i racconti del passato segnano una tappa importante nella crescita dei protagonisti.

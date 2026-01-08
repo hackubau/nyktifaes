@@ -1,0 +1,3 @@
+Zemy e Zerith, durante il viaggio verso Kedemon Fysis, si imbattono in un gruppo di banditi nella foresta. Costretti a nascondersi, vivono momenti di tensione e pericolo, ma riescono a evitare lo scontro diretto. Tuttavia, la presenza della creatura misteriosa che li aveva già inquietati in passato si fa nuovamente sentire, alimentando il senso di minaccia.
+
+I due ragazzi trovano rifugio in una grotta, dove incontrano uno Slyer. Contrariamente alle aspettative, la creatura non li attacca, lasciandoli perplessi e ancora più confusi sul significato degli eventi che stanno vivendo. Proseguono così il loro cammino verso la città elfica, portando con sé nuove domande e inquietudini.

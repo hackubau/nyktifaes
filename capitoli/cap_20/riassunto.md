@@ -1,0 +1,3 @@
+Zemy e Namar vengono introdotti nei sotterranei delle gilde di ladri di Kendhor, dove ricevono una missione: intercettare un carico diretto ai sotterranei rivali di Reles. Waky viene lasciato come garanzia. Nella notte, Zemy e Namar tendono un agguato nella foresta, sconfiggono i nemici e recuperano il carico, ma uno degli avversari si suicida per non rivelare segreti.
+
+Il gruppo torna vittorioso dai malavitosi, ma la tensione resta alta e nuove minacce si profilano all’orizzonte. Il capitolo mette in luce il coraggio, l’astuzia e la determinazione dei protagonisti di fronte a pericoli sempre più oscuri.

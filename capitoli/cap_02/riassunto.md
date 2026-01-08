@@ -1,0 +1,3 @@
+Zemy e Zerith si preparano per la "grande notte" di caccia, un rito fondamentale per la loro crescita. Equipaggiati e guidati da Krevlar, si addentrano nella foresta notturna, dove la magia e i pericoli si intrecciano. L'atmosfera è carica di attesa e timore, mentre i due giovani si confrontano con le proprie emozioni e con la natura misteriosa che li circonda.
+
+Durante il cammino, la foresta rivela il suo volto incantato e minaccioso. I protagonisti si affidano all'esperienza di Krevlar, imparando a rispettare le regole antiche e a cogliere i segnali del bosco. La notte si fa densa di presagi, segnando l'inizio di un viaggio che cambierà per sempre il loro destino.
