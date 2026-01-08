@@ -16,7 +16,7 @@ Questo documento ti guida attraverso il flusso di lavoro completo, distinguendo 
 
 Questi step creano la **base di conoscenza** necessaria per scrivere in modo coerente e fedele. 
 
-**Stato attuale**: ❌ **Nessuno step completato**
+**Stato attuale**: ✅ **STEP 1–3 completati (stile, indice, cap_01)**
 
 ---
 
@@ -56,7 +56,7 @@ Analizza le pagine 1-180 e crea indice_opera.md con:
 - Numero capitolo
 - Range pagine
 - Contenuto principale
-- Personaggi coinvolti
+- Personaggi coinvoltiai
 ```
 
 **Output**: File `indice_opera.md` nella root del progetto
@@ -71,7 +71,7 @@ Analizza le pagine 1-180 e crea indice_opera.md con:
 
 **Input necessario**:
 - File `indice_opera.md` (creato nello step 2)
-- File `original/Nyktifaes.pdf`
+- File `converted/Nyktifaes.md`
 
 **Come eseguire**:
 ```
@@ -106,7 +106,7 @@ capitoli/
 **Obiettivo**: Estrarre cronologia eventi dagli appunti senza interpretarli.
 
 **Input necessario**:
-- File `original/Nyktifaes.pdf` (pagine 180+, appunti grezzi)
+- File `converted/Nyktifaes.md` (pagine 180+, appunti grezzi)
 
 **Come eseguire**:
 ```
@@ -520,5 +520,3 @@ Quando il setup è completato, la struttura del progetto sarà:
 ---
 
 > **Ricorda**: Non stai riscrivendo Nyktifaes. Stai permettendole di arrivare alla fine senza distorsioni.
-
-

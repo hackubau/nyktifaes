@@ -1,0 +1,14 @@
+- Zemy medita in un cerchio naturale nel bosco elfico e sperimenta una fusione profonda con la natura, ricevendone energia e nuova consapevolezza.
+- Zerith interrompe la meditazione e chiama Zemy al ruscello.
+- I due osservano i kathareyo, pesci rarissimi e trasparenti, e Zemy nota un puntino viola luminoso sul fondale.
+- Zerith spinge Zemy in acqua per scherzo; segue una corsa tra gli alberi e una lotta giocosa nel fango.
+- Viene presentato il villaggio di Nimfe e l’ambiente circostante.
+- Rientro al villaggio: incontro con Kalea, madre di Zemy, che rimprovera Zerkan per il disordine; descrizione della madre.
+- Presentazione di Zerkan, lo zoedys: aspetto fisico, carattere affettuoso e legame profondo con Zemy.
+- Scambio familiare tra Zemy, Kalea e Krevlar; il padre difende bonariamente il figlio.
+- Descrizione della casa di Zemy, del camino con iscrizioni dedicate alla natura e dei simboli elfico-magici di protezione.
+- Zemy fa il bagno, ricorda il sassolino viola e la meditazione, percepisce di nuovo l’energia che gli scorre nelle vene.
+- La madre lo chiama per il pranzo; scena di tavola familiare con spezzatino preparato da Kalea.
+- Dopo il pasto, Zemy esce, incontra Zerith alla fontana celeste e si accordano per gli acquisti prima della caccia.
+- I due visitano il negozio di Syder, il miglior (e unico) armaiolo del villaggio, per comprare l’equipaggiamento necessario alla “grande notte” di caccia con Krevlar.
+
